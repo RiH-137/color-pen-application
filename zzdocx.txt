@@ -1,0 +1,32 @@
+1. npm install -g yarn
+
+2. yarn create react-app ./
+
+3. yarn add -D tailwind css
+
+4. initislize--> yarn tailwindcss init --> tailwind config file.
+
+5. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
